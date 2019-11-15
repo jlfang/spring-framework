@@ -265,6 +265,7 @@ configure(rootProject) {
 
 	dependencies {  // for integration tests
 		testCompile(project(":spring-aop"))
+		testCompile(project(":spring-aspects"))
 		testCompile(project(":spring-beans"))
 		testCompile(project(":spring-context"))
 		testCompile(project(":spring-core"))

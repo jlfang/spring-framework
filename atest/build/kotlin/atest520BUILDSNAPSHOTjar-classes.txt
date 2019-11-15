@@ -1,0 +1,1 @@
+C:\Users\wangjialue\spring\spring-framework\atest\build\classes\java\main\org\jlfang\demo\Test.class;C:\Users\wangjialue\spring\spring-framework\atest\build\classes\java\main\org\jlfang\demo\config\AppConfig.class;C:\Users\wangjialue\spring\spring-framework\atest\build\classes\java\main\org\jlfang\demo\dao\CrisDao.class

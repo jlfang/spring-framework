@@ -26,4 +26,5 @@ public class ConfigForScanning {
 	public TestBean testBean() {
 		return new TestBean();
 	}
+
 }
